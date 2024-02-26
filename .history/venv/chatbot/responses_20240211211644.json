@@ -1,0 +1,8 @@
+[
+    {
+        "response_type" : "normal",
+        "user_input":["Hi", "hello", "whats up"],
+        "bot_response":"Hello human mortal, how are you doing?",
+        "required_words": []
+    }
+]

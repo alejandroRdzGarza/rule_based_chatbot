@@ -1,0 +1,22 @@
+[
+    {
+        "response_type" : "greeting",
+        "user_input":["hola", "como", "estas"],
+        "bot_response":"Hola mortal, como estas?",
+        "required_words": []
+    },
+
+    {
+        "response_type" : "info",
+        "user_input":["quien", "es", "alex"],
+        "bot_response":"Alex es la persona que me creo.",
+        "required_words": ["alex", "quien"]
+    },
+
+    {
+        "response_type" : "info",
+        "user_input":["donde", "estudia", "alex"],
+        "bot_response":"Alex es la persona que me creo.",
+        "required_words": ["alex", "quien"]
+    }
+]

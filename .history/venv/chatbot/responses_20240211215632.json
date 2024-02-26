@@ -1,0 +1,15 @@
+[
+    {
+        "response_type" : "greeting",
+        "user_input":["Hola", "hello", "whats up"],
+        "bot_response":"Hola mortal, como estas?",
+        "required_words": []
+    },
+
+    {
+        "response_type" : "normal",
+        "user_input":["Hi", "hello", "whats up"],
+        "bot_response":"Hello human mortal, how are you doing?",
+        "required_words": []
+    }
+]
